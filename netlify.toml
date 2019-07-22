@@ -1,0 +1,4 @@
+[build]
+base = "wedding-planner/"
+publish = "wedding-planner/build/"
+command = "yarn build"
